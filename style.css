@@ -1,0 +1,40 @@
+body{
+  background: #5e076e;
+}
+
+.message-style {
+  background: #5e076e;
+  border-width: 3px;
+  border-color:gray;
+
+}
+.container {
+  max-width: 600px;
+  color: white
+}
+
+.btn{
+  background: #b51b4e;
+  color:white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  outline: none !important;
+}
+
+.username{
+  font-weight: bold;
+}
+
+.time{
+  font-size: 0.7em;
+  color: #999;
+}
+
+.update-msg {
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+}
